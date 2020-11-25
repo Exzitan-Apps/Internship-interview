@@ -17,7 +17,7 @@ class QuestionsScreen extends StatelessWidget {
     Question3Screen(),
     Question4Screen(),
     Question5Screen(),
-    Question5Screen(),
+    Question6Screen(),
   ];
 
   @override

@@ -18,7 +18,7 @@ class _Question6ScreenState extends State<Question6Screen> {
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
-          title: Text("Question 5"),
+          title: Text("Question 6"),
         ),
         body: Column(
           // crossAxisAlignment: CrossAxisAlignment.center,
