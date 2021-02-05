@@ -21,7 +21,6 @@ class _Question4ScreenState extends State<Question4Screen> {
         ),
         body: Column(crossAxisAlignment: CrossAxisAlignment.center, children: [
           //TODO divide the screen into 2 sections vertically
-          //TODO divide the screen into 2 sections horizontally
         ]),
       ),
     );
